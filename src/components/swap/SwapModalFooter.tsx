@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@ehyqal/panthersdknew'
+import { Trade, TradeType } from '@ehyqal/panthersdknew1'
 import React, { useMemo, useState } from 'react'
 import { Text , Button } from '@pantherswap-libs/uikit'
 import { Repeat } from 'react-feather'

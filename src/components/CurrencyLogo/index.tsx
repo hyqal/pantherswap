@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@ehyqal/panthersdknew'
+import { Currency, ETHER, Token } from '@ehyqal/panthersdknew1'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 import useHttpLocations from '../../hooks/useHttpLocations'

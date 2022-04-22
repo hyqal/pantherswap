@@ -1,4 +1,4 @@
-import { ChainId } from '@ehyqal/panthersdknew'
+import { ChainId } from '@ehyqal/panthersdknew1'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Button, LinkExternal } from '@pantherswap-libs/uikit'

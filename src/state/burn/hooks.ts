@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from '@ehyqal/panthersdknew'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from '@ehyqal/panthersdknew1'
 import { useCallback } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { usePair } from '../../data/Reserves'

@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@ehyqal/panthersdknew'
+import { currencyEquals, Trade } from '@ehyqal/panthersdknew1'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

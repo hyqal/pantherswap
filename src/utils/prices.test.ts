@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@ehyqal/panthersdknew'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@ehyqal/panthersdknew1'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

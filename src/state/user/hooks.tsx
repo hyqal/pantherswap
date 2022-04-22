@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from '@ehyqal/panthersdknew'
+import { ChainId, Pair, Token } from '@ehyqal/panthersdknew1'
 import flatMap from 'lodash.flatmap'
 import { useCallback, useMemo } from 'react'
 import { shallowEqual, useDispatch, useSelector } from 'react-redux'

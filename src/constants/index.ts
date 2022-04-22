@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@ehyqal/panthersdknew'
+import { ChainId, JSBI, Percent, Token, WETH } from '@ehyqal/panthersdknew1'
 
 export const ROUTER_ADDRESS = '0x24f7C33ae5f77e2A9ECeed7EA858B4ca2fa1B7eC'
 

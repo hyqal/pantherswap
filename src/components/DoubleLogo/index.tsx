@@ -1,4 +1,4 @@
-import { Currency } from '@ehyqal/panthersdknew1'
+import { Currency } from '@ehyqal/panthersdknew'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

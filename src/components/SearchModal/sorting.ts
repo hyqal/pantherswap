@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@ehyqal/panthersdknew1'
+import { Token, TokenAmount } from '@ehyqal/panthersdknew'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

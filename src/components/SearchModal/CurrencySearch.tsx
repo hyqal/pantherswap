@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@ehyqal/panthersdknew1'
+import { Currency, ETHER, Token } from '@ehyqal/panthersdknew'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { Text, CloseIcon } from '@pantherswap-libs/uikit'
 import { useSelector } from 'react-redux'

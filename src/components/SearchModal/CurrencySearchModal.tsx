@@ -1,4 +1,4 @@
-import { Currency } from '@ehyqal/panthersdknew1'
+import { Currency } from '@ehyqal/panthersdknew'
 import React, { useCallback, useEffect, useState } from 'react'
 import useLast from '../../hooks/useLast'
 import { useSelectedListUrl } from '../../state/lists/hooks'

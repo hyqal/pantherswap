@@ -1,4 +1,4 @@
-import { Trade } from '@ehyqal/panthersdknew1'
+import { Trade } from '@ehyqal/panthersdknew'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex } from '@pantherswap-libs/uikit'

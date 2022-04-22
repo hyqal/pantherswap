@@ -5,7 +5,7 @@ import { allLanguages } from 'constants/localisation/languageCodes'
 import { LanguageContext } from 'hooks/LanguageContext'
 import useTheme from 'hooks/useTheme'
 import useGetPriceData from 'hooks/useGetPriceData'
-// import useGetLocalProfile from 'hooks/useGetLocalProfile'
+import useGetLocalProfile from 'hooks/useGetLocalProfile'
 import { injected, bsc, walletconnect } from 'connectors'
 import links from './config'
 
@@ -15,9 +15,8 @@ const Menu: React.FC = (props) => {
   const { isDark, toggleTheme } = useTheme()
   const priceData = useGetPriceData()
 
-  const pantherAddress = '0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7'
-  const cakePriceUsd = priceData && priceData.data && priceData.data[pantherAddress] ? Number(priceData.data[pantherAddress].price) : Number(0)
-  // const profile = useGetLocalProfile()
+  const cakePriceUsd = useGetPriceData()
+  const profile = useGetLocalProfile()
 
   return (
     <UikitMenu
@@ -41,8 +40,7 @@ const Menu: React.FC = (props) => {
       langs={allLanguages}
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd}
-      cakePriceLink={`https://bscscan.com/token/${pantherAddress}`}
-      /* profile={profile} */
+      profile={profile}
       {...props}
     />
   )

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@pantherswap-libs/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@ehyqal/pantherswapsdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

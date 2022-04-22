@@ -1,5 +1,5 @@
 import React from 'react'
-import { Trade, TradeType } from '@pantherswap-libs/sdk'
+import { Trade, TradeType } from '@ehyqal/pantherswapsdk'
 import { Card, CardBody, Text } from '@pantherswap-libs/uikit'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'

@@ -1,4 +1,4 @@
-import { ChainId } from '@ehyqal/panthersdknew1'
+import { ChainId } from '@ehyqal/panthersdknew'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@ehyqal/panthersdknew1'
+import { ChainId, Token } from '@ehyqal/panthersdknew'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

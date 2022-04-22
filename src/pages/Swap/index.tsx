@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Token, Trade } from '@ehyqal/panthersdknew1'
+import { CurrencyAmount, JSBI, Token, Trade } from '@ehyqal/panthersdknew'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
 import { CardBody, ArrowDownIcon, Button, IconButton, Text } from '@pantherswap-libs/uikit'

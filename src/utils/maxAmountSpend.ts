@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@ehyqal/panthersdknew1'
+import { CurrencyAmount, ETHER, JSBI } from '@ehyqal/panthersdknew'
 import { MIN_ETH } from '../constants'
 
 /**

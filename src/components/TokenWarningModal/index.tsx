@@ -1,4 +1,4 @@
-import { Token } from '@ehyqal/pantherswapsdk'
+import { Token } from '@ehyqal/panthersdknew'
 import { transparentize } from 'polished'
 import { Button, Text } from '@pantherswap-libs/uikit'
 import React, { useCallback, useMemo, useState } from 'react'

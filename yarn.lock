@@ -3054,9 +3054,9 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@ehyqal/pantherswapsdk@^1.0.0":
+"@ehyqal/panthersdknew@^1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ehyqal/pantherswapsdk/-/sdk-1.0.0.tgz#6cafaee2bd7afa4d3b9dcc1993dca3ccd1124d16"
+  resolved "https://registry.yarnpkg.com/@ehyqal/panthersdknew/-/sdk-1.0.0.tgz#6cafaee2bd7afa4d3b9dcc1993dca3ccd1124d16"
   integrity sha512-qhxvneNbLeheKYHpAjg5DvcUr6OWZsjMaURA6ZstJD7HnRQMD+tB5XQFRnuX7jdaXl2yIRDCLu7qKSlkr36XXA==
   dependencies:
     "@pantherswap-libs/panther-swap-core" "^0.1.0"

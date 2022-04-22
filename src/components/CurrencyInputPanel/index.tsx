@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@ehyqal/pantherswapsdk'
+import { Currency, Pair } from '@ehyqal/panthersdknew'
 import { Button, ChevronDownIcon, Text } from '@pantherswap-libs/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

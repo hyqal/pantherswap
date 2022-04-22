@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from '@ehyqal/pantherswapsdk'
+import { Pair } from '@ehyqal/panthersdknew'
 import { Button, CardBody, Text } from '@pantherswap-libs/uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'

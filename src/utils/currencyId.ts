@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@ehyqal/panthersdknew'
+import { Currency, ETHER, Token } from '@ehyqal/pantherswapsdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

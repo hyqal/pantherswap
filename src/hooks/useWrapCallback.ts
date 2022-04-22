@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from '@ehyqal/panthersdknew'
+import { Currency, currencyEquals, ETHER, WETH } from '@ehyqal/pantherswapsdk'
 import { useMemo } from 'react'
 import { tryParseAmount } from '../state/swap/hooks'
 import { useTransactionAdder } from '../state/transactions/hooks'

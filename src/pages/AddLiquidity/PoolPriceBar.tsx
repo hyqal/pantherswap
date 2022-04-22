@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Percent, Price } from '@ehyqal/panthersdknew'
+import { Currency, Percent, Price } from '@ehyqal/pantherswapsdk'
 import { Text } from '@pantherswap-libs/uikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'

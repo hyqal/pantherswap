@@ -1,4 +1,4 @@
-import { ChainId } from '@ehyqal/panthersdknew'
+import { ChainId } from '@ehyqal/pantherswapsdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {

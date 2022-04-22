@@ -1,4 +1,4 @@
-import { Percent } from '@ehyqal/panthersdknew'
+import { Percent } from '@ehyqal/pantherswapsdk'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'
